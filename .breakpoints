@@ -1,0 +1,26 @@
+{
+  "files": {
+    "calculadora_bhaskara.py": [
+      {
+        "id": "d93c564c-ac23-45b4-9bfa-ea2b5cd06971",
+        "line": 7,
+        "version": 0,
+        "index": 153
+      }
+    ],
+    "main.py": [
+      {
+        "id": "5d76507f-ae0c-4989-a972-07ae9e69e713",
+        "line": 1,
+        "version": 8481,
+        "index": 0
+      },
+      {
+        "id": "587d1fb5-5bd8-4741-b771-b78228768f03",
+        "line": 1,
+        "version": 8481,
+        "index": 0
+      }
+    ]
+  }
+}
