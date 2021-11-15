@@ -6,8 +6,3 @@ A ideia é ser uma calculadora simples que lhe da o resultado de calculos de fun
 Termos de Uso:
 É totalmente permitido que você de fork no projeto, apenas deixe os creditos. 
 Não venda meu produto como algo pago! Tudo aqui é para fins educacionais.
-
-Conheça outros projetos: 
- - Discord:
- - Twitter: apagueikkj.
- - Whatsapp
